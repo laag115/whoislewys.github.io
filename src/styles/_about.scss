@@ -7,10 +7,6 @@
   }
 }
 
-.tech {
-  margin: 10px;
-}
-
 .user {
   text-align: center;
   font-size: 60px;
@@ -25,6 +21,10 @@
     flex-wrap: nowrap;
     font-size: 75px;
   }
+}
+
+.tech {
+  margin: 15px;
 }
 
 .user-details {
